@@ -1,0 +1,173 @@
+[33mcommit c561d0e7d6919598ae739087721bce27db125c58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:58:25 2018 +0200
+
+    fix
+
+[33mcommit fe265bf0009b84a16c74320b2cc71f6384de6eb8[m
+Merge: ea43690 d62371e
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:57:08 2018 +0200
+
+    Merge branch 'master' of https://github.com/raglu/sdu_exercise
+
+[33mcommit d62371e01d6fad13ea5dbf538587fd32c3a2b0f6[m
+Merge: 0e6238a cff9b7c
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:55:32 2018 +0200
+
+    house commit
+
+[33mcommit 0e6238a1db6708b9e9a84defdb765b9c26c95661[m
+Merge: 0f6c16e 5b9deb8
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:54:15 2018 +0200
+
+    new merge
+
+[33mcommit ea43690c5e9933fa99a62f45f40468db8294d012[m
+Merge: b8916f8 cff9b7c
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:52:36 2018 +0200
+
+    Merge branch 'master' of https://github.com/raglu/sdu_exercise
+
+[33mcommit b8916f8316218e4ecd4098c2ec8315344af329b7[m
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:52:17 2018 +0200
+
+    removed header
+
+[33mcommit cff9b7c6462a254e4d9c35c80bcf5404ec2f405c[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 08:52:04 2018 +0000
+
+    merge with alex
+
+[33mcommit 0f6c16edea25b63a8da87d5ebf8cc7c9f57171f3[m
+Merge: f9353e5 386d331
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:49:04 2018 +0200
+
+    Merge branch 'master' of github.com:raglu/sdu_exercise
+
+[33mcommit 5b9deb8d4c4f366ca7494e264deb28c8d03bda1c[m
+Merge: 8447316 386d331
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:46:49 2018 +0200
+
+    Merge branch 'master' of https://github.com/raglu/sdu_exercise
+    
+    fuck dat
+
+[33mcommit 84473166e8933e53c9af7a47933b49a1f8a0019d[m
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 10:45:15 2018 +0200
+
+    house
+
+[33mcommit f9353e5d2ed6387cf4f96dea08ad7d5bf79a4449[m
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:43:18 2018 +0200
+
+    new house
+
+[33mcommit 386d331e2242d10915269f7f612ca720196e25fa[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 08:41:43 2018 +0000
+
+    Shroom House
+
+[33mcommit 255f180effb0c52a89873af11bfc8779d4b6b09b[m
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:39:06 2018 +0200
+
+    samIsLame modified
+
+[33mcommit e5422b34201ebe60f1c2c7338d096593658d3665[m
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:37:16 2018 +0200
+
+    merge conflict modified
+
+[33mcommit bfd8898f84262404c47d2f0a6cb8ff7824db612f[m
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 10:35:07 2018 +0200
+
+    newBang added
+
+[33mcommit d269c59a17eeb3b24b240612652a7c100a6f223d[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 08:32:39 2018 +0000
+
+    CONFLICT.exe
+
+[33mcommit 55717fb593f7ef87245c718ea04d679fb57ac2f9[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 08:31:22 2018 +0000
+
+    Merge Conflict .com
+
+[33mcommit 9adf3d61bf683f20123c241f4c13ac2a77b93ee0[m[33m ([m[1;32mlog[m[33m, [m[1;32mgraph[m[33m)[m
+Author: Thorup <roedthorup@gmail.com>
+Date:   Tue Aug 21 09:59:56 2018 +0200
+
+    new commit
+
+[33mcommit bc9cc548ac52ebd077638cf7ae555bffd582d6e4[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 07:41:14 2018 +0000
+
+    yes
+
+[33mcommit 558da6d6c5b746b01f2da68443ae7c22b8f63d25[m
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 09:29:35 2018 +0200
+
+    commits
+
+[33mcommit 7113edf8949a58761b6725d9edce9aeb0590e4a0[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 07:26:22 2018 +0000
+
+    another one
+
+[33mcommit da7eee45eaf9a221c7d64fef54f40b18ec3c3da1[m
+Merge: 8398aff 38b1354
+Author: raglu <raglu16@student.sdu.dk>
+Date:   Tue Aug 21 09:20:43 2018 +0200
+
+    gMerge branch 'master' of https://github.com/raglu/sdu_exercise
+    
+    yes yes
+
+[33mcommit 38b135403560f3bc6a2939f16a6ca855897fb4f9[m
+Merge: bb82780 ee236aa
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 07:18:48 2018 +0000
+
+    Merge branch 'master' of https://github.com/raglu/sdu_exercise
+
+[33mcommit bb82780f0c179f68c1dc2d87e526d571a1aceb9b[m
+Author: Sam Bahadori <samhoffmann111@hotmail.com>
+Date:   Tue Aug 21 07:15:01 2018 +0000
+
+    Commit of epic txt
+
+[33mcommit ee236aa56406c5ef93e27c1506d293307e474df4[m
+Author: luciosis <marc.henriksen90@gmail.com>
+Date:   Tue Aug 21 09:13:19 2018 +0200
+
+    Luciosis thinks sam is lame!
+
+[33mcommit 8398aff32a9ee562a137123c37e6fc224c57e932[m
+Author: raglu <raglu16@student.sdu.dk>
+Date:   Tue Aug 21 09:11:15 2018 +0200
+
+    new txt file
+
+[33mcommit 96365a8bd3a21714d15addac099fa8597ae1e03e[m
+Author: raglu <raglu16@student.sdu.dk>
+Date:   Tue Aug 21 09:02:11 2018 +0200
+
+    Initial commit
